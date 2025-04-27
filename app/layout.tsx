@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 export const metadata = {
   title: 'three in a row',
   description: 'a simple tic-tac-toe game built with next.js',
-    generator: 'v0.dev'
+    generator: 'Noah Ojile'
 }
 
 export default function RootLayout({
